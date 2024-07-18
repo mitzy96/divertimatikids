@@ -1,0 +1,197 @@
+*{
+background-color: cadetblue
+    
+}
+.seccion-menu {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(41, 139, 237);
+    .img{
+        height: 120px;
+        width: 450px;
+       background-color: rgb(41, 139, 237);;
+        
+    }
+    }
+    h1{
+        font-size: 50px;
+        text-align: center;
+    }
+h2{
+    text-align: center;
+    font-size: 36px
+}
+
+.img-1{
+        float: left; /* Alinea la imagen a la izquierda */
+        margin-right: 20px; /* Espacio entre la imagen y el contenido */
+    
+    }
+
+    .container {
+        width: 80%; /* Ancho del contenedor */
+        margin: 0 auto; /* Centrar el contenedor */
+        text-align: center; /* Alinear el contenido al centro */
+    }
+    .text {
+        text-align: justify; /* Justificar el texto */
+    }
+    .text-align-right {
+        text-align: right; /* Alinear el texto a la derecha */
+    }
+    .button-container {
+        margin-top: 20px; /* Margen superior para separar los botones de la pregunta */
+    }
+    .button {
+        margin: 0 10px; /* Margen entre los botones */
+        padding: 10px 20px; /* Espacio interno de los botones */
+        border: none; /* Quitar el borde de los botones */
+        cursor: pointer; /* Cambiar el cursor al pasar por encima */
+        font-size: 36px;
+        background-color: yellow;
+    }
+p{
+    font-size: 36px
+}
+
+h5{
+    text-align: center;
+}
+.seccion-division {
+    padding: 20px;
+    margin-bottom: 20px;
+       .img-2{
+        height: 80px;
+        width: 400px;
+        background-color: #0d46f0;
+        text-align: center;
+        }
+    }
+
+/* quienes somos? */
+.container-informacion {
+    padding: 20px; /* Espacio alrededor del contenedor */
+}
+.img-3{
+    float: right; /* Alinea la imagen a la izquierda */
+    margin-top: 2cm;
+    margin-right: 800px; /* Mover el texto a la derecha */
+    
+}
+.content {
+    max-width: 500px; /* Ancho máximo del contenido */
+    text-align: justify; /* Justificar el texto */
+    margin-left: 600px; /* Mover el texto a la derecha */
+    padding: 10px; /* Padding dentro del contenedor */
+    
+}
+.highlight {
+    color: yellow; /* Color amarillo para el texto */
+}
+.bold {
+    font-weight: bold; /* Texto en negrita */
+}
+
+
+table {
+    background: white;
+    
+  }
+  /* nuestra empresa */
+
+.container-empresa {
+    padding: 20px; /* Espacio alrededor del contenedor */
+}
+.img-4{
+    float: right; /* Alinea la imagen a la izquierda */
+    margin-top: 2cm;
+    margin-right: 600px; /* Mover el texto a la derecha */
+    
+}
+.content {
+    max-width: 500px; /* Ancho máximo del contenido */
+    text-align: justify; /* Justificar el texto */
+    margin-left: 600px; /* Mover el texto a la derecha */
+    padding: 10px; /* Padding dentro del contenedor */
+    
+}
+/* MISION VISION */
+
+.container-MS {
+    display: flex;
+    justify-content: space-between; /* Distribuir espacio entre los elementos */
+    gap: 20px; /* Espacio entre los elementos */
+    padding: 20px; /* Espacio alrededor del contenedor */
+}
+.content-mision{
+    flex: 1; /* Permitir que los elementos se expandan */
+    max-width: 45%; /* Ancho máximo de cada columna */
+    text-align: justify; /* Justificar el texto */
+    padding: 10px; /* Espacio interno */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra para los bloques */
+}
+.content-vision{
+    flex: 1; /* Permitir que los elementos se expandan */
+    max-width: 45%; /* Ancho máximo de cada columna */
+    text-align: justify; /* Justificar el texto */
+    padding: 10px; /* Espacio interno */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra para los bloques */
+}
+
+.img-5{
+    display: block; /* Asegura que la imagen se comporte como un bloque */
+            margin-left: auto;
+            margin-right: auto;
+            width: 50cm; /* Ancho máximo de la imagen */
+            height: 10cm; /* Mantiene la proporción de la imagen */
+}
+.img-6{
+    float: right; /* Alinea la imagen a la izquierda */
+    margin-top: 2cm;
+    margin-right: 400px; /* Mover el texto a la derecha */
+    
+}
+.img-7{
+    float: right; /* Alinea la imagen a la izquierda */
+    margin-top: 2cm;
+    margin-right: 500px; /* Mover el texto a la derecha */
+    width: 20cm; /* Ancho máximo de la imagen */
+            height: 10cm; /
+}
+
+.img-8{
+    float: right; /* Alinea la imagen a la izquierda */
+    margin-top: 2cm;
+    margin-right: 600px; /* Mover el texto a la derecha */
+    width: 16cm; /* Ancho máximo de la imagen */
+            height: 14cm; /
+}
+.container-beneficio {
+    display: flex;
+    padding: 20px; /* Espacio alrededor del contenedor */
+    text-align: center;
+}
+.img-9 {
+    display: block;
+    margin: 0 auto;
+}
+.img-20 {
+    display: block;
+    margin: 0 auto;
+}
+    .imagen1-.imagen2-.imagen3-.imagen4-.imagen5-.imagen6 {
+        width: 3cm; /* Ancho máximo del contenedor de la imagen */
+        height: 2cm; /* Altura máxima del contenedor de la imagen */
+        display: block; /* Asegura que las imágenes se comporten como bloques */
+        margin: auto; /* Centra horizontalmente */
+    }
+
+.img-10 {
+    display: block;
+    margin: 0 auto;
+}
+
+.img-11 {
+    display: block;
+    margin: 0 auto;
+}
